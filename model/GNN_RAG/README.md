@@ -17,3 +17,15 @@ You can train your own GNNs or you can skip this folder and  use directly the GN
 Please see details on how to reproduce results there. 
 
 **Results**: We append all the results for Table 2: See `results/KGQA-GNN-RAG-RA` or `results/KGQA-GNN-RAG`. You can look at the actual LLM generations, as well as the KG information retrieved ("input" key) in predictions.jsonl.
+
+## Get Started
+We have simple requirements in `requirements.txt`. You can always check if you can run the code immediately.
+
+The datasets as well as the pretrained LM (LMsr) are uploaded here: https://drive.google.com/drive/folders/1ifgVHQDnvFEunP9hmVYT07Y3rvcpIfQp?usp=sharing
+
+Please download them and extract them to the corresponding folders.
+
+## Training
+Please follow the guidelines and hyperparamters of the corresponding GNNs for training. See `scripts` on a training example.  
+
+Otherwise, you can download released GNN models from here: https://drive.google.com/file/d/1p7eLSsSKkZQxB32mT5lMsthVP6R_3x1j/view
