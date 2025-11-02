@@ -17,7 +17,7 @@ Original Repository: [https://github.com/facebookresearch/BLINK](https://github.
 ## Setup
 1. Install requirements
 ```console
-pip install -r elq/requirements.txt
+pip install -r ./requirements.txt
 ```
 
 2. Download the pretrained models, indices, and entity embeddings
