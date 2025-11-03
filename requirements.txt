@@ -1,0 +1,11 @@
+tqdm==4.66.2
+torch==2.1.2+cu121
+openai==1.9.0
+SPARQLWrapper==2.0.0
+rank-bm25==0.2.2
+sentence-transformers==2.7.0
+qwikidata==0.4.2
+transformers==4.50.0
+numpy=1.26.4
+requests==2.31.0
+# argparse time threading queue math gc os json re random copy
