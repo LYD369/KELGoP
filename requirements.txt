@@ -8,7 +8,6 @@ qwikidata==0.4.2
 transformers==4.50.0
 numpy=1.26.4
 requests==2.31.0
-# argparse time threading queue math gc os json re random copy
 
 # for ELQ
 pysolr==3.8.1
