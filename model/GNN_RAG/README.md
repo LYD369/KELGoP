@@ -3,11 +3,12 @@
 This module is based on the implementation from the following paper: [https://arxiv.org/pdf/2010.02413.pdf](https://arxiv.org/pdf/2405.20139.pdf)
 
 ```bibtex
-@article{mavromatis2024gnnraggraphneuralretrieval,
-  title={Gnn-rag: Graph neural retrieval for large language model reasoning},
-  author={Mavromatis, Costas and Karypis, George},
-  journal={arXiv preprint arXiv:2405.20139},
-  year={2024}
+@misc{mavromatis2024gnnraggraphneuralretrieval,
+    title={GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning}, 
+    author={Costas Mavromatis and George Karypis},
+    year={2024},
+    eprint={2405.20139},
+    archivePrefix={arXiv}
 }
 ```
 
