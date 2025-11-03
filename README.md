@@ -1,4 +1,4 @@
-# KELGoP_draft
+# KELGoP
 
 This is the code and data for **A Framework of Knowledge Graph-Enhanced Large Language Model Based on Global Planning**
 
