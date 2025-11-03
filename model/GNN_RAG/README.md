@@ -15,6 +15,6 @@ Original Repository: [https://github.com/cmavro/GNN-RAG](https://github.com/cmav
 
 ## Setup
 
-Download the datasets `data.zip` from [here](https://drive.google.com/drive/folders/1ifgVHQDnvFEunP9hmVYT07Y3rvcpIfQp?usp=sharing) and place it at `GNN_RAG/data`.
+Download the datasets `data.zip` from [here](https://drive.google.com/drive/folders/1ifgVHQDnvFEunP9hmVYT07Y3rvcpIfQp?usp=sharing) and place it at `GNN_RAG/gnn/data`.
 
 Download the released GNN models `ReaRev_webqsp.ckpt` and `ReaRev_CWQ.ckpt` from [here](https://drive.google.com/file/d/1p7eLSsSKkZQxB32mT5lMsthVP6R_3x1j/view) and place them under `GNN_RAG/gnn/checkpoint/pretrain/`.
