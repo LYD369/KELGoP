@@ -10,6 +10,8 @@ This is the code and data for **A Framework of Knowledge Graph-Enhanced Large La
    
 3. Follow the steps in [`model/BLINK/README.md`](https://github.com/LYD369/KELGoP/blob/main/model/BLINK/README.md) and [`model/GNN_RAG/README.md`](https://github.com/LYD369/KELGoP/blob/main/model/GNN_RAG/README.md) to setup the required models.
 
+4. Set your OpenAI API key and local model path of LLaMA3.1 and Qwen2.5 in [`KELGoP.py`](https://github.com/LYD369/KELGoP/blob/main/KELGoP.py).
+
 ## Run
 
 WebQSP:
