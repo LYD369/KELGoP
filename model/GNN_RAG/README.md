@@ -1,6 +1,6 @@
 # GNN-RAG
 
-This module is based on the implementation from the following paper: [https://arxiv.org/pdf/2010.02413.pdf](https://arxiv.org/pdf/2405.20139.pdf)
+This module is based on the implementation from the following paper: [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](https://arxiv.org/pdf/2405.20139.pdf)
 
 ```bibtex
 @misc{mavromatis2024gnnraggraphneuralretrieval,
