@@ -15,12 +15,8 @@ This module is based on the implementation from the following paper: [https://ar
 Original Repository: [https://github.com/facebookresearch/BLINK](https://github.com/facebookresearch/BLINK)
 
 ## Setup
-1. Install requirements
-```console
-pip install -r ./requirements.txt
-```
 
-2. Download the pretrained models, indices, and entity embeddings
+Download the pretrained models, indices, and entity embeddings
 ```console
 chmod +x download_elq_models.sh
 ./download_elq_models.sh
