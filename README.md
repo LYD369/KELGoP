@@ -33,3 +33,17 @@ CUDA_VISIBLE_DEVICES=0 python KELGoP.py --dataset cwq --KG_retriever 2hoptriple 
 # GNN-based KG searching
 CUDA_VISIBLE_DEVICES=0 python KELGoP.py --dataset cwq --KG_retriever gnn
 ```
+
+## Cite
+
+```
+@ARTICLE{11275658,
+    author={Li, Yading and Song, Dandan and Tian, Yuhang and Wang, Hao and Zhou, Changzhi and Zhang, Shuhao},
+    journal={IEEE Transactions on Knowledge and Data Engineering}, 
+    title={A Framework of Knowledge Graph-Enhanced Large Language Model Based on Global Planning}, 
+    year={2026},
+    volume={38},
+    number={2},
+    pages={736-748},
+    doi={10.1109/TKDE.2025.3639599}}
+```
